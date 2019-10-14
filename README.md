@@ -3,3 +3,6 @@
 This set of behavior recognition system uses the WIFI channel information to realize online recognition of the basic behavior of the human body. The behavior recognition system uses commercial WIFI equipment to collect raw data, and uses wavelet transform (DWT) and principal component analysis (PCA) to extract features. Using the current hot machine learning and deep learning algorithms, support vector machine (SVM), convolutional neural network (CNN) and other model training, based on this model to achieve online behavior detection. The developed behavior recognition system achieves high-precision online detection of human behavior, and the system has high robustness.
 
 ![linear svm ](https://github.com/anbo1024/Human-behavior-recognition-system-based-on-WIFI-signal/blob/master/pic/1.png)
+因该项目论文专利成果还未公布，代后期会对系统平台、实验数据集进行开源。
+如有兴趣交流学习敬请联系我！
+
