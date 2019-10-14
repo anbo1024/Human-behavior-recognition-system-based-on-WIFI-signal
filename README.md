@@ -5,4 +5,5 @@ This set of behavior recognition system uses the WIFI channel information to rea
 ![linear svm ](https://github.com/anbo1024/Human-behavior-recognition-system-based-on-WIFI-signal/blob/master/pic/1.png)
 因该项目论文专利成果还未公布，代后期会对系统平台、实验数据集进行开源。
 如有兴趣交流学习敬请联系我！
+email:anbo1024@163.com
 
